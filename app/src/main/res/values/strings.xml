@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Finder</string>
+    <string name="str_btn_find">Find</string>
+    <string name="auto_update">Auto update</string>
+    <string name="customize">Customize</string>
+    <string name="refresh">Refresh</string>
+
+    <string-array name="place_type">
+        <item>bank</item>
+        <item>cafe</item>
+        <item>hospital</item>
+        <item>restaurant</item>
+        <item>gas_station</item>
+    </string-array>
+
+    <string-array name="place_type_name">
+        <item>Bank</item>
+        <item>Cafe</item>
+        <item>Hospital</item>
+        <item>Restaurant</item>
+        <item>Gas</item>
+    </string-array>
+</resources>

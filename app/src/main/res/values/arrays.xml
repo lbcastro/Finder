@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="background_images">
+        <item>@drawable/bank</item>
+        <item>@drawable/cafe</item>
+        <item>@drawable/hospital</item>
+        <item>@drawable/restaurant</item>
+        <item>@drawable/gas</item>
+    </string-array>
+</resources>
